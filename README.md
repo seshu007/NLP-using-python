@@ -7,5 +7,5 @@
 # for simplicity applied multinomial NB model
 
 #second NLP challange is dealt with neural networks.
-#The challange is to identify the sentiment of the consumers towards certain drugs. Positive or negative
-#All the above steps are done but with different syntax
+#The challange is to classify the ratings of the drug, high or low based on the previously genrated corpus
+#Used convolutional 2d networks
