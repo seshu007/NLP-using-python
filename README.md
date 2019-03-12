@@ -8,3 +8,9 @@
 # second NLP challange is dealt with neural networks.
 # The challange is to classify the ratings of the drug, high or low based on the previously genrated corpus
 # Used convolutional networks
+# Third challange is to classify sms into ham,spam and info.
+# Third challange is dealt using Reccuring nueral netwroks
+# First step is tokenixing the data using tokenizer function from keras, pad sequence function to maintain equal document length
+# dummifying the labels in the target
+# LSTM is applied along with an embedding layer which produces an output of equal length.
+# Embedding layer helps in intializing the learned weights instead of randomly intializing the weights as in normal neural networks.
