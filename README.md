@@ -5,7 +5,6 @@
 # TFIDF of bag of words is created using tfidf transformer function
 # Machine learning models are applied on the data after splitting
 # for simplicity applied multinomial NB model
-
-#second NLP challange is dealt with neural networks.
-#The challange is to classify the ratings of the drug, high or low based on the previously genrated corpus
-#Used convolutional 2d networks
+# second NLP challange is dealt with neural networks.
+# The challange is to classify the ratings of the drug, high or low based on the previously genrated corpus
+# Used convolutional networks
